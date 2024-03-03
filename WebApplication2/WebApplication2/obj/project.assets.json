@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectUniqueName": "D:\\Websites\\Websites\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
       "projectName": "WebApplication2",
-      "projectPath": "D:\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectPath": "D:\\Websites\\Websites\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
       "packagesPath": "C:\\Users\\Manikandan\\.nuget\\packages\\",
-      "outputPath": "D:\\WebApplication2\\WebApplication2\\obj\\",
+      "outputPath": "D:\\Websites\\Websites\\WebApplication2\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
